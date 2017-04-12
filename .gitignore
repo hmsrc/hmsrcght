@@ -1,0 +1,8 @@
+*.pyc
+*.so
+env/
+.env
+.private
+results/int*
+*.log
+docs/_build/
