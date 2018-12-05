@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+import os
+import sys
+# new code
 
 def print_thing(string_to_print):
 	"""Print Function"""
