@@ -3,6 +3,7 @@
 env/
 .env
 .private
+.vscode/
 results/int*
 *.log
 docs/_build/

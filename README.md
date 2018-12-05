@@ -10,7 +10,7 @@ Welcome to Introduction to Git and Github.
 
 ### Instructor: Mike McClellan <mike_mcclellan@hms.harvard.edu>
 
-### Date: 2017-04-12 3pm-5pm
+### Date: 2018-12-05 3pm-5pm
 
 ## Registering for Github
 
@@ -21,6 +21,14 @@ Please navigate to [Join GitHub](https://github.com/join). The page should look 
 ![Register for Github](./img/hmsrcght-register.png)
 
 ---
+
+## Links
+
+- [python example](./src/hello.py)
+- [jupyter example](./src/main_analysis.ipynb)
+- [SQL example](./src/sakila-schema.sql)
+- [shell example](./bin/main.sh)
+- [PDF example](./doc/1609.00037.pdf)
 
 ## Contact information
 
