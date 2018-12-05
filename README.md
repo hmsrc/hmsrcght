@@ -37,7 +37,7 @@ Please navigate to [Join GitHub](https://github.com/join). The page should look 
 
 ## New Feature
 
-- This is the new feature discussed in great detail in #1.
+- This is the new feature discussed in great detail in hmsrc/hmsrcght#1.
 - It was implemented by @mmcclellan
 
 ## Contact information
