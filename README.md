@@ -35,6 +35,11 @@ Please navigate to [Join GitHub](https://github.com/join). The page should look 
 
 > Research is what I’m doing when I don’t know what I’m doing. -- Wernher Von Braun
 
+## New Feature
+
+- This is the new feature discussed in great detail in #1.
+- It was implemented by @mmcclellan
+
 ## Contact information
 
 - [HMS RC website](http://rc.hms.harvard.edu)
