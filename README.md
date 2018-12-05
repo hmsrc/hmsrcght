@@ -45,3 +45,10 @@ Please navigate to [Join GitHub](https://github.com/join). The page should look 
 - [HMS RC website](http://rc.hms.harvard.edu)
 - [rchelp@hms.harvard.edu](mailto:rchelp@hms.harvard.edu)
 - Office Hours: Wednesdays 1-3p Gordon Hall 500
+
+---
+
+> This is a quote
+
+Here is the [issue](https://github.com/hmsrc/hmsrcght/issues/4)
+
