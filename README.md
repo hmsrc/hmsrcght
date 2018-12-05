@@ -29,6 +29,11 @@ Please navigate to [Join GitHub](https://github.com/join). The page should look 
 - [SQL example](./src/sakila-schema.sql)
 - [shell example](./bin/main.sh)
 - [PDF example](./doc/1609.00037.pdf)
+- [CSV example](./data/iris.csv)
+
+## Example Quote
+
+> Research is what I’m doing when I don’t know what I’m doing. -- Wernher Von Braun
 
 ## Contact information
 
