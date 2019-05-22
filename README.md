@@ -52,4 +52,6 @@ Please navigate to [Join GitHub](https://github.com/join). The page should look 
 
 Here is the [issue](https://github.com/hmsrc/hmsrcght/issues/4)
 
+Some new information.
+
 ---
