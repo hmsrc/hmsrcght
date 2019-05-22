@@ -6,11 +6,13 @@
 
 Welcome to Introduction to Git and Github.
 
-### Term: Fall 2018
+### Term: Spring 2019
 
 ### Instructor: Mike McClellan <mike_mcclellan@hms.harvard.edu>
 
-### Date: 2018-12-05 3pm-5pm
+### Date: 2019-05-22 3pm-5pm
+
+### Location: Countway 403
 
 ## Registering for Github
 
@@ -46,9 +48,8 @@ Please navigate to [Join GitHub](https://github.com/join). The page should look 
 - [rchelp@hms.harvard.edu](mailto:rchelp@hms.harvard.edu)
 - Office Hours: Wednesdays 1-3p Gordon Hall 500
 
----
-
 > This is a quote
 
 Here is the [issue](https://github.com/hmsrc/hmsrcght/issues/4)
 
+---
